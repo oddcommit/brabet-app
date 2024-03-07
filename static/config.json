@@ -1,0 +1,9 @@
+{
+    "website": "BRABET",
+    "weburl": "BRABET.com",
+    "currency":"BRL",
+    "currencySymbol":"R$",
+    "sourceUrl": "https://cartoonico.s3.sa-east-1.amazonaws.com/tempo-win/img/",
+    "noLoggedPic": "../../static/banner/2.png",
+    "loginPic": "../../static/banner/1.png"
+}
