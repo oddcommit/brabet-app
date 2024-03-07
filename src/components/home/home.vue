@@ -56,7 +56,7 @@
                                             </div>
                                             <div class="showMore">
                                                 <div @click="showMore()">
-                                                    ShowMore
+                                                    Load more
                                                 </div>
                                             </div>
                                         </div>
